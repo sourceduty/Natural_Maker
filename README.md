@@ -28,6 +28,8 @@ Moreover, the Natural Maker provides step-by-step guidance on the product design
 [Wildlife Compass](https://github.com/sourceduty/Wildlife_Compass)
 <br>
 [Tree Identity](https://github.com/sourceduty/Tree_Identity)
+<br>
+[Alogrithms](https://github.com/sourceduty/Algorithms)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
