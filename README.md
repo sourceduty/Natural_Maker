@@ -30,6 +30,8 @@ Moreover, the Natural Maker provides step-by-step guidance on the product design
 [Tree Identity](https://github.com/sourceduty/Tree_Identity)
 <br>
 [Algorithms](https://github.com/sourceduty/Algorithms)
+<br>
+[Animal Product](https://github.com/sourceduty/Animal_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
