@@ -24,6 +24,8 @@ Moreover, the Natural Maker provides step-by-step guidance on the product design
 [Makeshift](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [Animal Product](https://github.com/sourceduty/Animal_Product)
+<br>
+[Wildlife Compass](https://github.com/sourceduty/Wildlife_Compass)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
