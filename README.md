@@ -13,6 +13,10 @@ Moreover, the Natural Maker provides step-by-step guidance on the product design
 ![Canoe](https://github.com/user-attachments/assets/6cd7c1ab-1ec0-4665-98f8-74b4b5113c35)
 
 #
+
+![Bench](https://github.com/user-attachments/assets/3d6bced7-d284-4803-a4da-02f5e355c29a)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
